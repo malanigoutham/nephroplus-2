@@ -1,0 +1,133 @@
+{
+  "hospital_info": {
+    "hospital_name": "AK Health Quotient India Pvt. Ltd.",
+    "reference_laboratory": "E-117, Kailash, New Delhi-110011",
+    "phone": "+91 11 264 44101-04",
+    "website": "www.healthquotientindia.com",
+    "accreditation": "NABL Accredited Pathology Laboratory"
+  },
+  "patient_info": {
+    "name": "Mr. SAMIR KUMAR SINGH",
+    "age": "37 Yrs",
+    "gender": "Male",
+    "client_code": "UNITED HEALTH CARE",
+    "patient_id": null
+  },
+  "doctor_info": {
+    "referring_doctor": "Dr. ANJANA CHANDRA",
+    "consultant": null,
+    "pathologist": "Dr. ANJANA CHANDRA M.B.B.S., MD, Consultant Pathologist"
+  },
+  "report_info": {
+    "report_type": "Pathology Report",
+    "lab_id": "10189704",
+    "date": "08/09/2023",
+    "collection_datetime": "08/09/2023 09:26:23",
+    "received_datetime": "08/09/2023 09:31:03",
+    "report_datetime": "08/09/2023 13:32:40",
+    "referred_by": "SMI LIFE INSURANCE CO. LTD.",
+    "on_panel": "CGHS, DGEHS, MCD, DDA, DJS"
+  },
+  "test_results": [
+    {
+      "test_name": "SODIUM Serum",
+      "method": "Ion selective Electrode",
+      "result_value": "141.2",
+      "unit": "meq/L",
+      "reference_range": "135.0 - 155.0",
+      "status": "Normal"
+    },
+    {
+      "test_name": "POTASSIUM Serum",
+      "method": "Ion selective Electrode",
+      "result_value": "4.4",
+      "unit": "meq/L",
+      "reference_range": "3.5 - 5.5",
+      "status": "Normal"
+    },
+    {
+      "test_name": "CALCIUM Serum",
+      "method": "ARSENAZO method",
+      "result_value": "9.6",
+      "unit": "mg/dL",
+      "reference_range": "8.8 - 10.2",
+      "status": "Normal"
+    },
+    {
+      "test_name": "TOTAL BILIRUBIN Serum",
+      "method": "Jendrassik-Grof",
+      "result_value": "0.36",
+      "unit": "mg/dL",
+      "reference_range": "0.10 - 1.10",
+      "status": "Normal"
+    },
+    {
+      "test_name": "CONJUGATED (D.Bilirubin) Serum",
+      "method": "Jendrassik-Grof",
+      "result_value": "0.15",
+      "unit": "mg/dL",
+      "reference_range": "0.00 - 0.25",
+      "status": "Normal"
+    },
+    {
+      "test_name": "UNCONJUGATED (I.D.Bilirubin) Serum",
+      "method": "Calculated",
+      "result_value": "0.21",
+      "unit": "mg/dL",
+      "reference_range": "0.10 - 0.70",
+      "status": "Normal"
+    },
+    {
+      "test_name": "S.G.O.T Serum",
+      "method": "IFCC",
+      "result_value": "32.5",
+      "unit": "U/L",
+      "reference_range": "1.0 - 46.0",
+      "status": "Normal"
+    },
+    {
+      "test_name": "S.G.P.T Serum",
+      "method": "IFCC",
+      "result_value": "27.9",
+      "unit": "U/L",
+      "reference_range": "1.0 - 49.0",
+      "status": "Normal"
+    },
+    {
+      "test_name": "ALKALINE PHOSPHATASE serum",
+      "method": "DGKC-SCE",
+      "result_value": "188.0",
+      "unit": "U/L",
+      "reference_range": "80.0 - 306.0",
+      "status": "Normal"
+    }
+  ],
+  "additional_info": {
+    "raised_levels_notes": [
+      "Osteoblastic bone tumors eg. Pagets disease, Metastatic bone disease, Osteomalacia (in Osteoporosis no increase), rickets.",
+      "Liver disease such as biliary obstruction increase. Cirrhosis, Hepatitis, cancer etc.",
+      "Interfering factors: Many drugs, children, pregnant women, older people."
+    ],
+    "bilirubin_comments": [
+      "In haemolytic jaundice the increase in indirect bilirubin is greatest.",
+      "In obstructive jaundice the increase in direct bilirubin is more pronounced.",
+      "After administration of hepatotoxic drugs s.bilirubin levels may also increased."
+    ],
+    "sgot_sgpt_comments": [
+      "High levels are seen in Acute hepatitis, active Cirrhosis, Acute MI, Ac. pancreatitis, Ac. renal dis. Usually SGOT/SGPT are raised equally except myocardial infarction (SGPT not raised)",
+      "Haemolysed samples give raised vales."
+    ],
+    "footer_notes": [
+      "Page 1 of 1",
+      "Test results are alarming/unexpected contact the laboratory immediately.",
+      "The tests with an '*' are not accredited by NABL.",
+      "Reporting T&C overleaf"
+    ]
+  },
+  "_metadata": {
+    "source_image": "hacakathoninput_image.jpg",
+    "extraction_method": "tesseract_ollama_deepseek",
+    "processing_timestamp": "2025-06-25TXX:XX:XX.XXXXXX",
+    "model_used": "llama3.2:3b"
+  }
+}
